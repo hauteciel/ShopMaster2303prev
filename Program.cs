@@ -16,6 +16,7 @@
                 Console.WriteLine("본문입니다");  // A#3
                 Console.WriteLine("기사1");      // A#5
                 Console.WriteLine("기사2");      // A#5
+                Console.WriteLine("New본문");    // B#10
             }
             Console.WriteLine("footer");
             {
