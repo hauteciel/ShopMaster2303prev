@@ -6,7 +6,7 @@
         {
             Console.WriteLine("header");
             {
-
+                Console.WriteLine("헤더입니다");  // A#2
             }
             Console.WriteLine("article");
             {
